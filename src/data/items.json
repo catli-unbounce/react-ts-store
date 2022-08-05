@@ -2,25 +2,25 @@
   {
     "id": 1,
     "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/img/book.jpg"
+    "price": 1099,
+    "imgUrl": "/images/book.jpg"
   },
   {
     "id": 2,
     "name": "Computer",
-    "price": 12.99,
-    "imgUrl": "/img/book.jpg"
+    "price": 1299,
+    "imgUrl": "/images/laptop.jpg"
   },
   {
     "id": 3,
     "name": "Fruit",
-    "price": 14.99,
-    "imgUrl": "/img/book.jpg"
+    "price": 1499,
+    "imgUrl": "/images/fruit.jpg"
   },
   {
     "id": 4,
-    "name": "Computer",
-    "price": 16.99,
-    "imgUrl": "/img/book.jpg"
+    "name": "Car",
+    "price": 1699,
+    "imgUrl": "/images/car.jpg"
   }
 ]
